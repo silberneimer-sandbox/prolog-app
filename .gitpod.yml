@@ -4,3 +4,7 @@ image:
 tasks:
   - init: 'echo "TODO: Replace with init/build command"'
     command: 'echo "TODO: Replace with command to start project"'
+
+vscode:
+  extensions:
+    - arthurwang.vsc-prolog@0.8.23:V+PmY1etOthcFOruDtFIMA==
